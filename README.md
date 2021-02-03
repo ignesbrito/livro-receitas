@@ -1,5 +1,6 @@
 # Livro de receitas :woman_cook:
 
-Olá! Bem vindo ao meu libro de receitas :wave:
+Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Bolo de Laranja
+- Pavê
